@@ -1,0 +1,73 @@
+body {margin: 0px; background-color: #000000}
+
+{background-image: url(sfondo2.JPEG); }
+
+header{color: white; padding: 50px}
+
+p {text-align: left; font-size: 25px; color: white; text-transform: uppercase; padding: 0% 0% 0px 0%;}
+.outnow {position: absolute; left: 8%; top: 80%; }
+.presave {position: absolute; right: 8%; top: 80%; }
+
+
+.whitelink {text-decoration: none; color: white; font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 37px }
+
+nav {margin: 5px auto; text-align: center;}
+
+nav ul {list-style-type: none; height: 150px;}
+
+nav ul li {display:inline-block; margin: 75px 7%; }
+.bar a:hover {text-shadow: 0 0 0.05em #fff, 0 0 0.2em #fe05e1, 0 0 0.3em #A65D9D; }
+.tobeyoucover {position: absolute; left: 9%; top: 50%; }
+.copertina {position: absolute; right: 9%; top: 50%; }
+
+h1{text-align: center; text-transform: uppercase; font-family: Copperplate, "Copperplate Gothic Light", fantasy; top: 5%; text-shadow: 0 0 0.05em #fff, 0 0 0.2em #fe05e1, 0 0 0.3em #A65D9D; color: white;}
+
+h2 {text-align: center; right: 50%; font-family: 'Angella White Personal use font', sans-serif; text-transform: capitalize; font-size: 40px; color: white; text-decoration: none;}
+
+
+html{font-family: "<h2 _ngcontent-edi-c142="" class="mat-text--secondary gmat-body-2">ParaType</h2>", Times;}
+
+.name {position: absolute; right: 6%; top: 8%; font-family: 'Angella White Personal use font', sans-serif; text-transform: capitalize; font-size: 40px; color: white; text-decoration: none;}
+
+
+
+.footer {position: relative;}
+#social-bar{display: block; font-size: 30px; background: rgba(74, 0, 9, 1);}
+.twitter{color: white;}
+.apple{color:white;}
+.instagram{color:white;}
+.tiktok{color:white;}
+.spotify{color:white;}
+.material-icons{color:white;}
+
+p {text-align: center; font-family: 'Angella White Personal use font', sans-serif; text-transform: capitalize; font-size: 40px; color: white; text-decoration: none;}
+
+
+#console {outline: none;
+cursor: pointer;
+text-align: center;
+text-decoration: none;
+font: bold 12px Verdana, Arial, Helvetica, sans-serif;
+color: white;
+padding: 10px 20px;
+border: solid 1px #59110F;
+-webkit-border-radius: 8px;
+border-radius: 8px;}
+{background-image: url(sfondo2.JPEG); }
+
+.col {text-align: center; text-transform: uppercase;font-size: 30px; list-style-type: armenian; padding: 0.5%; color: white; text-shadow: 0 0 0.05em #fff, 0 0 0.2em #fe05e1, 0 0 0.3em #A65D9D; font-family: Copperplate, "Copperplate Gothic Light", fantasy;}
+.row {text-align: center;font-size: 20px; list-style-type: armenian; margin: 50px; color: white; font-family: Copperplate, "Copperplate Gothic Light", fantasy}
+
+
+
+.photos img{margin:40px auto; border-radius: 1vw;}
+
+
+
+.tabella {padding: 3%}
+
+.testo {font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 20px; margin-right: 10px; margin-left: 10px;}
+
+.frase {font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 20px; margin-right: 10px; margin-left: 10px; padding-bottom: 50px}
+
+
