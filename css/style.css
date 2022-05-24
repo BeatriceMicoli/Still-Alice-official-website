@@ -15,7 +15,7 @@ nav {margin: 5px auto; text-align: center;}
 
 nav ul {list-style-type: none; height: 150px;}
 
-nav ul li {display:inline-block; margin: 75px 7%; }
+nav ul li {display:inline-block; margin: 75px 10%; }
 .bar a:hover {text-shadow: 0 0 0.05em #fff, 0 0 0.2em #fe05e1, 0 0 0.3em #A65D9D; }
 .tobeyoucover {position: absolute; left: 9%; top: 50%; }
 .copertina {position: absolute; right: 9%; top: 50%; }
